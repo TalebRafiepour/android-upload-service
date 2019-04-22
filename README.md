@@ -38,7 +38,7 @@ Apps and libraries powered by this library. To be included in the following list
 - [Samajbook](https://play.google.com/store/apps/details?id=com.marothiatechs.samaj)
 
 how to user: 
-```
+`
 dependencies {
 	        implementation 'com.github.TalebRafiepour:android-upload-service:3.5.3'
 	}
@@ -49,6 +49,7 @@ dependencies {
 			maven { url 'https://jitpack.io' }
 		}
 	}
+	
 
 ## Contributing <a name="contribute"></a>
 * Do you have a new feature in mind?
