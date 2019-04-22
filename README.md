@@ -1,7 +1,7 @@
 Android Upload Service
 ======================
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android%20Upload%20Service-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2161) [![Build Status](https://travis-ci.org/gotev/android-upload-service.svg?branch=master)](https://travis-ci.org/gotev/android-upload-service) [ ![Download](https://api.bintray.com/packages/gotev/maven/android-upload-service/images/download.svg) ](http://javadoc.io/badge/net.gotev/uploadservice.svg)](http://javadoc.io/doc/net.gotev/uploadservice)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android%20Upload%20Service-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2161) [![Build Status](https://travis-ci.org/gotev/android-upload-service.svg?branch=master)](https://travis-ci.org/gotev/android-upload-service)
 [![](https://jitpack.io/v/TalebRafiepour/android-upload-service.svg)](https://jitpack.io/#TalebRafiepour/android-upload-service)
 
 
