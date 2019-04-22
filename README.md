@@ -37,7 +37,7 @@ Apps and libraries powered by this library. To be included in the following list
 - [NativeScript Background HTTP](https://www.npmjs.com/package/nativescript-background-http)
 - [Samajbook](https://play.google.com/store/apps/details?id=com.marothiatechs.samaj)
 
-how to user: 
+how to use: 
 
 ```
 dependencies {
