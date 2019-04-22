@@ -49,7 +49,6 @@ dependencies {
 			maven { url 'https://jitpack.io' }
 		}
 	}
-    ```
 
 ## Contributing <a name="contribute"></a>
 * Do you have a new feature in mind?
