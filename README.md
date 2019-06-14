@@ -43,7 +43,7 @@ how to use:
 
 ```
 dependencies {
-	        implementation 'com.github.TalebRafiepour:android-upload-service:3.5.3'
+	        implementation 'com.github.TalebRafiepour:android-upload-service:3.5.4'
 	}
     
     allprojects {
