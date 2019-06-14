@@ -139,11 +139,11 @@ public final class UploadService extends Service {
     private ThreadPoolExecutor uploadThreadPool;
     private Timer idleTimer = null;
 
-    protected static String getActionUpload() {
+    public static String getActionUpload() {
         return NAMESPACE + ACTION_UPLOAD_SUFFIX;
     }
 
-    protected static String getActionBroadcast() {
+    public static String getActionBroadcast() {
         return NAMESPACE + BROADCAST_ACTION_SUFFIX;
     }
 
