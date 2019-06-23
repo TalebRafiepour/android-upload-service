@@ -20,7 +20,7 @@ public class HurlStack implements HttpStack {
         mFollowRedirects = true;
         mUseCaches = false;
         mConnectTimeout = 15000;
-        mReadTimeout = 30000;
+        mReadTimeout = 600000;
     }
 
     public HurlStack(boolean followRedirects,

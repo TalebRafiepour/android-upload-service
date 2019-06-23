@@ -45,6 +45,7 @@ public abstract class HttpUploadRequest<B extends HttpUploadRequest<B>>
         new URL(params.serverUrl);
     }
 
+
     @Override
     protected void initializeIntent(Intent intent) {
         super.initializeIntent(intent);
